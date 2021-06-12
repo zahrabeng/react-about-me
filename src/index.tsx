@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom";
-import Header from "./components/Header";
+import PageHeader from "./components/PageHeader";
 import MainContent from "./components/MainContent";
 
-ReactDOM.render(<Header />, document.getElementById("page-header"));
+ReactDOM.render(<PageHeader />, document.getElementById("page-header"));
 ReactDOM.render(<MainContent />, document.getElementById("main-content"));
