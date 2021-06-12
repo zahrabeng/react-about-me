@@ -1,4 +1,3 @@
-
 function Header(): JSX.Element {
   return (
     <header>
@@ -12,4 +11,4 @@ function Header(): JSX.Element {
   );
 }
 
-export default Header
+export default Header;
