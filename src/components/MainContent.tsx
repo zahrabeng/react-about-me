@@ -1,4 +1,4 @@
-import { capitalise } from "./utils/capitalise";
+import { capitalise } from "../utils/capitalise";
 
 function MainContent(): JSX.Element {
   const location = {
