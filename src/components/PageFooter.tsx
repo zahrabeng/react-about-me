@@ -6,4 +6,4 @@ function PageFooter(): JSX.Element {
   );
 }
 
-export default PageFooter
+export default PageFooter;

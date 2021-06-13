@@ -1,6 +1,6 @@
-import MainContent from './components/MainContent';
-import PageFooter from './components/PageFooter';
-import PageHeader from './components/PageHeader';
+import MainContent from "./components/MainContent";
+import PageFooter from "./components/PageFooter";
+import PageHeader from "./components/PageHeader";
 
 function App(): JSX.Element {
   return (
@@ -9,7 +9,7 @@ function App(): JSX.Element {
       <MainContent />
       <PageFooter />
     </>
-  )
+  );
 }
 
 export default App;
