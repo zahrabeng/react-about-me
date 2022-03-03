@@ -2,7 +2,7 @@ import { capitalise } from "../utils/capitalise";
 
 function MainContent(): JSX.Element {
   const location = {
-    city: "London",
+    city: "Reading",
     country: "United Kingdom",
   };
 
